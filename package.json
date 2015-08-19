@@ -1,0 +1,32 @@
+{
+  "name": "kit2",
+  "version": "1.0.0",
+  "description": "Vector Graphics Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+      "express": "latest",
+      "jade": "latest",
+      "underscore": "latest",
+      "load-grunt-tasks": "latest",
+      "glob": "latest"
+    },
+  "devDependencies": {
+      "grunt": "latest",
+      "grunt-contrib-concat": "latest",
+      "grunt-contrib-watch": "latest",
+      "grunt-autoprefixer": "latest",
+      "browserify": "latest",
+      "grunt-browserify": "latest",
+      "karma": "latest",
+      "karma-jasmine": "latest",
+      "karma-chrome-launcher": "latest",
+      "karma-firefox-launcher": "latest",
+      "karma-browserify": "latest",
+      "protractor": "latest"
+}
+}
